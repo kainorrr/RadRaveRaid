@@ -34,8 +34,8 @@ _________                       __    __________                        ________
                        {Fore.CYAN}Type {Fore.RESET}"help"{Fore.CYAN} for a list of commands
                        {Fore.GREEN}{counttokens}{Fore.RESET}{Fore.CYAN} tokens loaded!
                        {Fore.GREEN}{countproxies}{Fore.RESET}{Fore.CYAN} proxies loaded!
-                       {Fore.MAGENTA}Created by {Fore.RESET}Fawful | {Fore.CYAN}Special thx to {Fore.RESET}Humble#8292{Fore.CYAN}, {Fore.RED}RaidToolBox{Fore.CYAN}, and {Fore.YELLOW}h0nda
-                       {Fore.MAGENTA}https://github.com/{Fore.RESET}riaaaaaaaa
+                       {Fore.MAGENTA}Created by {Fore.RESET}Fawful | {Fore.CYAN}Special thx to {Fore.RESET}me :3{Fore.CYAN}, {Fore.RED}RaidToolBox{Fore.CYAN}, and {Fore.YELLOW}h0nda
+                       {Fore.MAGENTA}https://github.com/{Fore.RESET}kainorrr
 ''' + Fore.RESET)
 
 def Help():
