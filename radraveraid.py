@@ -22,13 +22,14 @@ def Setup():
     counttokens = len(open('tokens.txt').readlines())
     countproxies = len(open('proxies.txt').readlines())
 
-    print(f'''{Fore.RESET}                {Fore.MAGENTA}    ____            __{Fore.RESET}{Fore.CYAN}   ____                 {Fore.RESET}{Fore.RED}     ____        _     __{Fore.RESET}
-                {Fore.MAGENTA}   / __ \____ _____/ /{Fore.RESET}{Fore.CYAN}  / __ \____ __   _____ {Fore.RESET}{Fore.RED}    / __ \____ _(_)___/ /{Fore.RESET}
-                {Fore.MAGENTA}  / /_/ / __ `/ __  / {Fore.RESET}{Fore.CYAN} / /_/ / __ `/ | / / _ \{Fore.RESET}{Fore.RED}   / /_/ / __ `/ / __  / {Fore.RESET}
-                {Fore.MAGENTA} / _, _/ /_/ / /_/ /  {Fore.RESET}{Fore.CYAN}/ _, _/ /_/ /| |/ /  __/{Fore.RESET}{Fore.RED}  / _, _/ /_/ / / /_/ /  {Fore.RESET}
-                {Fore.MAGENTA}/_/ |_|\__,_/\__,_/  {Fore.RESET}{Fore.CYAN}/_/ |_|\__,_/ |___/\___/ {Fore.RESET}{Fore.RED} /_/ |_|\__,_/_/\__,_/   {Fore.RESET}
-
-
+    print(f'''{Fore.RESET}                {Fore.MAGENTA}    ____            __{Fore.RESET}{Fore.CYAN}   ____                 {Fore.RESET}{Fore.RED}     ____        _     __{Fore.
+                                                                                                                                                                             
+_________                       __    __________                        __________        .__    .___            
+\_   ___ \  ____  __ __________/  |_  \______   \ ____   ____   _____   \______   \_____  |__| __| _/___________ 
+/    \  \/ /  _ \|  |  \_  __ \   __\  |       _//  _ \ /  _ \ /     \   |       _/\__  \ |  |/ __ |/ __ \_  __ \
+\     \___(  <_> )  |  /|  | \/|  |    |    |   (  <_> |  <_> )  Y Y  \  |    |   \ / __ \|  / /_/ \  ___/|  | \/
+ \______  /\____/|____/ |__|   |__|    |____|_  /\____/ \____/|__|_|  /  |____|_  /(____  /__\____ |\___  >__|   
+        \/                                    \/                    \/          \/      \/        \/    \/       
                        {Fore.CYAN}RadRaveRaid {INIT.__version__} {Fore.RESET}| Because fuck you
                        {Fore.CYAN}Type {Fore.RESET}"help"{Fore.CYAN} for a list of commands
                        {Fore.GREEN}{counttokens}{Fore.RESET}{Fore.CYAN} tokens loaded!
