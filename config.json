@@ -1,6 +1,6 @@
 {
 	"BotConfig":{
-		"useproxy":false,
+		"useproxy":true,
 		"threadcap":800
 	}
 }
